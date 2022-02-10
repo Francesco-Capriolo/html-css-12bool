@@ -1,0 +1,18 @@
+/* MEDIAQUERY */
+
+/*  mediaquery se la dimensione dello schermo è più piccola di un tot ad esempio 480px 
+    la Flex-basis di tutti i blocchi diventa il 100%*/
+
+@media all and(max-width:480px) {
+
+    [class*="col-"] {
+        flex-basis: calc((100% / 12) * 12);
+    }
+}
+
+/* mediaquery fino a 576px  */
+
+@media only screen and (max-width:576px) {
+
+    .col-sm-1 {}
+}
