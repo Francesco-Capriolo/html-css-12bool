@@ -1,0 +1,9 @@
+p {
+    color: white;
+}
+
+div {
+    background-color: rgb(19, 117, 197);
+    border: 1px solid white;
+    height: 50px;
+}
