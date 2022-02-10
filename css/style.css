@@ -4,8 +4,11 @@ p {
 
 div {
     height: 50px;
-    background-color: #006cfa;
     border: 1px solid white;
+}
+
+.blue {
+    background-color: #006cfa;
 }
 
 div.back-green {
