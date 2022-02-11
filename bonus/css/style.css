@@ -1,0 +1,28 @@
+div {
+    height: 50px;
+}
+
+.red {
+    background-color: rgba(216, 40, 0, 255);
+    border: 1px solid black;
+}
+
+.yellow {
+    background-color: rgba(252, 152, 56, 255);
+    border: 1px solid black;
+}
+
+.skin {
+    background-color: rgba(253, 188, 123, 255);
+    border: 1px solid black;
+}
+
+.brown {
+    background-color: rgba(136, 112, 0, 255);
+    border: 1px solid black;
+}
+
+.occhi {
+    background-color: rgba(91, 75, 0, 255);
+    border: 1px solid black;
+}
